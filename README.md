@@ -17,7 +17,11 @@ Mục tiêu của dự án:
 - **Data Generation**: Tạo dữ liệu giả lập bằng Python.  
 - **Data Visualization**: Thiết kế báo cáo tương tác bằng Power BI.  
 
+## 📂 Tải tài liệu & dữ liệu
 
+- 📑 [Data Dictionary (Google Docs)](https://docs.google.com/spreadsheets/d/18_tjiJxNv2Y84GqxbYNa-oJivV-1WsrBNAXT4BZi0Mc/edit?usp=sharing)
+- 📊 [Dữ liệu mẫu (Excel)](./05_SampleData/sample_data.xlsx)
+- 📈 [Dashboard Power BI](./06_PowerBI/insurance_dashboard.pbix)
 
 
 
