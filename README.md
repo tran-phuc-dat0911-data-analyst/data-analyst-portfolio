@@ -23,7 +23,7 @@ Mục tiêu của dự án:
 - 📊 [Dữ liệu mẫu (GG drive)](https://docs.google.com/spreadsheets/d/1bPzSEV51qFgN6S6sJJpqZS4MuKGjW8m8/edit?usp=sharing&ouid=115040697668877238562&rtpof=true&sd=true) ( Dữ liệu này khá lớn )
 
 - Tổng quan bằng Mindmap
-![Tổng quan bồi thường](./07_Reports/1.png)
+![Tổng quan](./07_Reports/mm_xcg.png)
 
 
 - 📈 [Dashboard Power BI]
