@@ -14,7 +14,7 @@ Mục tiêu của dự án:
 ## 🧠 Kỹ năng áp dụng
 - **SQL**: Thiết kế bảng, viết truy vấn phân tích, tổng hợp dữ liệu.  
 - **Data Modeling**: Xây dựng mô hình dữ liệu theo dạng Star Schema.  
-- **Data Generation**: Tạo dữ liệu giả lập bằng Python.  
+- **Data Sample**: Tạo dữ liệu test demo trên excel.  
 - **Data Visualization**: Thiết kế báo cáo tương tác bằng Power BI.  
 
 ## 📂 Tải tài liệu & dữ liệu
