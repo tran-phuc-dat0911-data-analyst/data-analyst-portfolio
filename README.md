@@ -21,8 +21,12 @@ Mục tiêu của dự án:
 
 - 📑 [Data Dictionary (Google Docs)](https://docs.google.com/spreadsheets/d/18_tjiJxNv2Y84GqxbYNa-oJivV-1WsrBNAXT4BZi0Mc/edit?usp=sharing)
 - 📊 [Dữ liệu mẫu (GG drive)](https://docs.google.com/spreadsheets/d/1bPzSEV51qFgN6S6sJJpqZS4MuKGjW8m8/edit?usp=sharing&ouid=115040697668877238562&rtpof=true&sd=true) ( Dữ liệu này khá lớn )
-- 📈 [Dashboard Power BI]
 
+- Tổng quan bằng Mindmap
+![Tổng quan bồi thường](./07_Reports/1.png)
+
+
+- 📈 [Dashboard Power BI]
 ### 1️⃣ Tổng quan bồi thường
 ![Tổng quan bồi thường](./07_Reports/1.png)
 ![Tổng quan bồi thường](./07_Reports/2.png)
