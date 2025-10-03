@@ -25,8 +25,7 @@ Mục tiêu của dự án:
 - ## 📊 Dashboard Preview
 
 ### 1️⃣ Tổng quan bồi thường
-
-(./07_Reports/1.png)(./07_Reports/2.png)
+![Dashboard Overview](./07_Reports/1.png)(./07_Reports/2.png)
 
 ### 2️⃣ Tổng quan dự phòng bồi thường
 
