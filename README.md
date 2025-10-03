@@ -38,5 +38,5 @@ Mục tiêu của dự án:
 ### Một số báo cáo khác với dữ liệu khác cùng ngành bảo hiểm 
 ![Tổng quan](./07_Reports/6.png)
 ![Executive Summary](./07_Reports/7.png)
-![Claim Overview](./07_Reports/5.png)
-![Overtime Report](./07_Reports/5.png)
+![Claim Overview](./07_Reports/8.png)
+![Overtime Report](./07_Reports/9.png)
