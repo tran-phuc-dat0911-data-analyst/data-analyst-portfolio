@@ -31,8 +31,12 @@ Mục tiêu của dự án:
 ![Tổng quan dự phòng bồi thường](./07_Reports/3.png)
 ![Tổng quan dự phòng bồi thường](./07_Reports/4.png)
 
+
 ### 3️⃣ Phân tích đối soát kế toán
 ![Phân tích đối soát kế toán](./07_Reports/5.png)
 
-
-
+### Một số báo cáo khác với dữ liệu khác cùng ngành bảo hiểm 
+![Tổng quan](./07_Reports/6.png)
+![Executive Summary](./07_Reports/7.png)
+![Claim Overview](./07_Reports/5.png)
+![Overtime Report](./07_Reports/5.png)
