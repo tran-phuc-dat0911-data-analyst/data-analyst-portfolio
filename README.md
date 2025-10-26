@@ -42,8 +42,12 @@ Mục tiêu của dự án:
 ### 3️⃣ Phân tích đối soát kế toán
 ![Phân tích đối soát kế toán](./07_Reports/5.png)
 
-### Một số báo cáo khác cùng ngành bảo hiểm 
+### Một số dashboard khác 
+- Cùng nghiệp vụ bảo hiểm :
 ![Tổng quan](./07_Reports/6.png)
 ![Executive Summary](./07_Reports/7.png)
 ![Claim Overview](./07_Reports/8.png)
 ![Overtime Report](./07_Reports/9.png)
+
+- Quản lý , theo dõi tiến độ hoàn thành công việc của 1 tổng công ty
+- ![DEMO](./07_Reports/demo_baocao_img.mkv)
