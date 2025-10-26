@@ -26,6 +26,9 @@ Mục tiêu của dự án:
 ![Tổng quan](./07_Reports/mm_xcg.png)
 
 
+
+- Data Model :
+![Data Model](./07_Reports/Model_BH_Full.drawio.png)
 - 📈 [Dashboard Power BI]
 ### 1️⃣ Tổng quan bồi thường
 ![Tổng quan bồi thường](./07_Reports/1.png)
