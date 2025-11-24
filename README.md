@@ -21,7 +21,7 @@ Mục tiêu của dự án:
 
 - 📑 [Data Dictionary (Google Docs)](https://docs.google.com/spreadsheets/d/18_tjiJxNv2Y84GqxbYNa-oJivV-1WsrBNAXT4BZi0Mc/edit?usp=sharing)
 - 📊 [Dữ liệu mẫu (GG drive)](https://docs.google.com/spreadsheets/d/1bPzSEV51qFgN6S6sJJpqZS4MuKGjW8m8/edit?usp=sharing&ouid=115040697668877238562&rtpof=true&sd=true) ( Dữ liệu này khá lớn )
-- Viết tài liệu BRD , check list kiểm tra KPI :[BRD (Google Docs)](https://docs.google.com/spreadsheets/d/19bgiL9ufpjAYnGArfQt7dqgCQUe5fZmPduBDqwlt0l8/edit?usp=sharing)
+- Viết tài liệu BRD , check list kiểm tra KPI : [BRD](https://docs.google.com/spreadsheets/d/19bgiL9ufpjAYnGArfQt7dqgCQUe5fZmPduBDqwlt0l8/edit?usp=sharing)
 
 - Tổng quan bằng Mindmap
 ![Tổng quan](./07_Reports/mm_xcg.png)
