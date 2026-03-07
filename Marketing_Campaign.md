@@ -35,3 +35,6 @@ Dashboard phân tích hiệu quả các chiến dịch marketing và doanh thu b
 3.![Sales Performance Analysis](./07_Reports/12.png)
 
 4.![Marketing & Growth Analysis](./07_Reports/13.png)
+
+## Presentation
+![PP](./07_Reports/marketing_campaign_dashboard.pptx)
