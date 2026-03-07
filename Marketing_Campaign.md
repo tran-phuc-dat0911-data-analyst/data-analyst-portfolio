@@ -28,7 +28,10 @@ Dashboard phân tích hiệu quả các chiến dịch marketing và doanh thu b
 - Đánh giá lại hiệu quả **TV Advertising**.
 
 ## Dashboard Preview
-![Tổng quan](./07_Reports/10.png)
-![Executive Summary](./07_Reports/11.png)
-![Sales Performance Analysis](./07_Reports/12.png)
-![Marketing & Growth Analysis](./07_Reports/13.png)
+1.![Tổng quan](./07_Reports/10.png)
+
+2.![Executive Summary](./07_Reports/11.png)
+
+3.![Sales Performance Analysis](./07_Reports/12.png)
+
+4.![Marketing & Growth Analysis](./07_Reports/13.png)
